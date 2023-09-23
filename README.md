@@ -1,4 +1,5 @@
-- 😎 Hi, I’m @manuel1688 from Panama
+- 😎 Hi, I’m @manuel1688.
+- I love Tech
 
 
 ## Code 
