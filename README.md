@@ -6,6 +6,6 @@
 
 ```bash
 python
-Java
 Javascript
+Go
 ```
